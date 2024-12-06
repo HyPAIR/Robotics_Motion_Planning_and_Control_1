@@ -9,5 +9,5 @@ Assignments for robotics motion planning and control module in the University of
 ## Requirements
  - ROS2 FOXY
  - Ubuntu 20.04
- - 
+
 ## Installation:
